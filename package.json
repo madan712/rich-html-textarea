@@ -1,11 +1,42 @@
 {
   "name": "rich-html-textarea",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "This HTML textarea component includes features such as displaying line numbers for each line of text in the textarea, and allowing users to copy the contents of the textarea to the clipboard with the click of a button",
+  "main": "dist/rich-html-textarea.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madan712/rich-html-textarea.git"
+  },
+  "author": "Madan Chaudhary",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.38",
+    "typescript": "^5.0.4"
+  },
+  "keywords": [
+    "HTML textarea",
+    "line numbering",
+    "copy to clipboard",
+    "customizable",
+    "code editor",
+    "web development",
+    "user-friendly interface",
+    "code snippet",
+    "developer tool",
+    "text editing",
+    "front-end development",
+    "web design",
+    "code highlighting"
+  ],
+  "bugs": {
+    "url": "https://github.com/madan712/rich-html-textarea/issues"
+  },
+  "homepage": "https://github.com/madan712/rich-html-textareax#readme",
+  "types": "./dist/rich-html-textarea.d.ts"
 }

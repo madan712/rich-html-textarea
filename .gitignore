@@ -3,3 +3,5 @@ rich-html-textarea.iml
 
 node_modules
 yarn.lock
+
+dist

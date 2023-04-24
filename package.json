@@ -1,6 +1,6 @@
 {
   "name": "rich-html-textarea",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "This HTML textarea component includes features such as displaying line numbers for each line of text in the textarea, and allowing users to copy the contents of the textarea to the clipboard with the click of a button",
   "main": "dist/rich-html-textarea.js",
   "scripts": {
